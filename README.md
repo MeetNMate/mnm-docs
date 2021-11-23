@@ -6,11 +6,11 @@ MNM 서비스의 문서 레포지토리입니다.
 
 ### Designer 주소영
 
-<table>
+<table style="text-align: center">
     <thead>
         <tr><td>메인 페이지</td><td>로그인 페이지</td></tr>
     </thead>
-    <tr>
+    <tr style="text-align: center">
         <td style="text-align: center">
             <img src="https://user-images.githubusercontent.com/50647845/143025839-a751022e-aacc-4dbe-82fb-e5fb39822498.png" alt="main" width="50%" style="display: block;"/>
         </td>
