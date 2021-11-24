@@ -26,8 +26,8 @@ MNM 서비스의 문서 레포지토리입니다.
 |---|---|---|
 |![mobile _ 6-2  하우스룰페이지](https://user-images.githubusercontent.com/50647845/143162095-2045ba93-9ae3-482b-b8f0-6739a7031768.png)|![mobile _ 6-3  하우스룰추가페이지](https://user-images.githubusercontent.com/50647845/143162102-9f485dbe-11cb-411c-9f1f-a96a18e66d0f.png)|![mobile _ 7-1  메이트평가페이지](https://user-images.githubusercontent.com/50647845/143162110-bad9b889-92cd-4076-b882-eb6963d6196a.png)|
 
-||메이트별평가페이지||
+||메이트별평가페이지|정보 입력 후 메인페이지|
 |---|---|---|
-|![mobile _ 7-2  메이트별평가페이지1](https://user-images.githubusercontent.com/50647845/143162065-4c6902d6-1ca0-45bc-88d3-4c83acdf3eca.png)|![mobile _ 7-3  메이트별평가페이지2_모달](https://user-images.githubusercontent.com/50647845/143162120-eea069b7-5e35-418a-8dc1-8cbfc5148124.png)|![mobile _ 7-3  메이트별평가페이지2](https://user-images.githubusercontent.com/50647845/143162129-0c07e5cc-1f95-41a9-aa4e-5fa16d94b3f5.png)|
+|![mobile _ 7-2  메이트별평가페이지1](https://user-images.githubusercontent.com/50647845/143162065-4c6902d6-1ca0-45bc-88d3-4c83acdf3eca.png)|![mobile _ 7-3  메이트별평가페이지2_모달](https://user-images.githubusercontent.com/50647845/143162120-eea069b7-5e35-418a-8dc1-8cbfc5148124.png)|![mobile _ 8-2  정보입력후메인페이지2](https://user-images.githubusercontent.com/50647845/143162136-74f9161e-e626-42ec-ae61-7f82b1fac50a.png)|
 
-![mobile _ 8-2  정보입력후메인페이지2](https://user-images.githubusercontent.com/50647845/143162136-74f9161e-e626-42ec-ae61-7f82b1fac50a.png)
+
